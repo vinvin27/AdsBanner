@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>categoriesbanner</name>
+	<displayName><![CDATA[Ads Categories Banners]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Display ads banner on categories pages]]></description>
+	<author><![CDATA[Vince4digitalife]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
